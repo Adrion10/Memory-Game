@@ -51,3 +51,6 @@ const cardArray = [
 console.log(cardArray);
 
 cardArray.sort(() => 0.5 - Math.random());
+console.log(cardArray);
+
+const gridDisplay = document.querySelector("#grid");
