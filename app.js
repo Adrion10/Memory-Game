@@ -66,3 +66,8 @@ function createBoard() {
     grid.appendChild(card);
   }
 }
+  //check for matches
+  function checkForMatch() {
+    const cards = document.querySelectorAll('img')
+    const optionOneId = cardsChosenId[0]
+    const optionTwoId = cardsChosenId[1]
