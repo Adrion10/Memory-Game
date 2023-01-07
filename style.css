@@ -1,5 +1,10 @@
 #grid {
   display: flex;
+  flex-wrap: w;
   width: 500px;
   height: 300px;
+}
+img {
+  width: 100px;
+  height: 100px;
 }
