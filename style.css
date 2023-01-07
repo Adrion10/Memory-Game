@@ -1,4 +1,4 @@
-#grid {
+.grid {
   display: flex;
   flex-wrap: w;
   width: 500px;
